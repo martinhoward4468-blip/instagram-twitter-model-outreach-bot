@@ -1,0 +1,7 @@
+You haven’t given me the repository link yet.
+Per your own instructions:
+
+“After I give you the repository link, fetch the directory structure from its README…”
+
+You only provided the README content — not the link.
+Please reply with the repository URL, and I will then generate the full project with complete runnable code for every file exactly as specified.
